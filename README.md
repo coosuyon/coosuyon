@@ -1,6 +1,6 @@
 # smth about what I've got
 
-           .             ​ axenide@world 
+           .             ​ echiecy@98 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Windows 11 / CachyOS
         .lllll.          ​ Kernel : Windows NT Kernel / linux-cachyos
