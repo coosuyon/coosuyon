@@ -1,15 +1,14 @@
-# thingy
+# smth about what I've got
 
            .             ​ axenide@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Adriano Tisera 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
-       ..;'olll.         ​ WM : Hyprland 
-      .dolllcccl.        ​ Shell : fish
-     .lcc'   'ccc.       ​ Uptime : 24 years
-    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+         .ccc.           ​ OS : Windows 11 / CachyOS
+        .lllll.          ​ Kernel : Windows NT Kernel / linux-cachyos
+       ..;'olll.         ​ WM : explorer.exe / Niri
+      .dolllcccl.        ​ Shell : Powershell 7 / fish
+     .lcc'   'ccc.       ​ Uptime : 4.2 million years
+    .ccc'     'cc:.      ​ CPU : Young Core i8-0610 CPU 6.10GHz
    .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     A   X   E   N   I   D   E   火 
+  ."'             '".     C   O   O   S   U   Y   O   N   火 
 
-arch in ~ 
-  λ echo "Stay Determined!"
+"Stay Determined!"
