@@ -1,14 +1,4 @@
-# something about me I guess??
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-             .             ​ echiecy@98 
-            .c.           ┌───────────────────────────────┐ 
-           .ccc.           ​ OS : Windows 11 / Arch Linux
-          .lllll.          ​ Kernel : Windows NT Kernel / linux 7.0.12.arch1-1
-         ..;'olll.         ​ WM : dwm.exe / Niri
-        .dolllcccl.        ​ Shell : Powershell 7 / fish
-       .lcc'   'ccc.       ​ Uptime : Enough
-      .ccc'     'cc:.      ​ CPU : Young Core i8-0610 CPU 6.10GHz
-     .cccc'     'c:;..    └───────────────────────────────┘ 
-    ."'             '".     C   O   O   S   U   Y   O   N   火 
-
-"天国へ行こう！"
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
