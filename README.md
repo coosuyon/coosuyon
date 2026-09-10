@@ -12,7 +12,7 @@
 
 - 🍊 Fun fact: ***I larp Chainsaw Man***
 
-![markiplier]([https://myoctocat.com/assets/images/base-octocat.svg](https://media1.tenor.com/m/hpzpmROMFJsAAAAd/markiplier-fire.gif))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
