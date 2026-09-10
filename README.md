@@ -12,6 +12,8 @@
 
 - 🍊 Fun fact: ***I larp Chainsaw Man***
 
+![markiplier]([https://myoctocat.com/assets/images/base-octocat.svg](https://media1.tenor.com/m/hpzpmROMFJsAAAAd/markiplier-fire.gif))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/coosuyon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="coosuyon" height="30" width="40" /></a>
