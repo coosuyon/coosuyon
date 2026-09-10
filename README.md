@@ -12,7 +12,7 @@
 
 - 🍊 Fun fact: ***I larp Chainsaw Man***
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.pinimg.com/736x/57/d0/ec/57d0ecd4ff63a1a65df57a7b467ab69b.jpg)
+![catcatcatcatcatcatcatcatcat](https://i.pinimg.com/736x/57/d0/ec/57d0ecd4ff63a1a65df57a7b467ab69b.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
