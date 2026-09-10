@@ -1,14 +1,16 @@
 # I'm mostly known as Coosuyon (he/him)
 
+₊˚.🎧 ✩｡☕ 🤎
+
 ### 참고로 말씀드리자면, 저는 한국어를 한 마디도 모릅니다.
 
 - 🏵️ I'm currently working on **smaller projects**
 
-- 🍁 I'm currently learning **HTML, Javascript and CSS (sometimes Typescript) and I absolutely execrate Python.**
+- 🍦 I'm currently learning **HTML, Javascript and CSS (sometimes Typescript) and I absolutely execrate Python.**
 
 - 🍄 I'm looking to collaborate on **anything I wanna collaborate on, lol**
 
-- 🍯 I'm looking for help with **sanity issues**
+- 🥑 I'm looking for help with **sanity issues**
 
 - 🥮 Ask me about **Persona 5 and nothing else.**
 
