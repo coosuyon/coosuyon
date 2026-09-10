@@ -1,18 +1,12 @@
 # I'm mostly known as Coosuyon (he/him)
 
-₊˚.🎧 ✩｡☕ 🤎
 
-### 참고로 말씀드리자면, 저는 한국어를 한 마디도 모릅니다.
+> ### 참고로 말씀드리자면, 저는 한국어를 한 마디도 모릅니다.
 
-- 🏵️ I'm currently working on **smaller projects**
+
+- 🏵️ I am currently working on **smaller personal projects**
 
 - 🍦 I'm currently learning **HTML, Javascript and CSS (sometimes Typescript) and I absolutely execrate Python.**
-
-- 🍄 I'm looking to collaborate on **anything I wanna collaborate on, lol**
-
-- 🥑 I'm looking for help with **sanity issues**
-
-- 🥮 Ask me about **Persona 5 and nothing else.**
 
 - 🐦‍🔥 How to reach me **206635bb-2aeb-4da2-89b0-53c39eb7344c@anonaddy.com**
 
