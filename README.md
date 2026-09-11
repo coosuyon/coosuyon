@@ -1,7 +1,7 @@
 # I'm mostly known as Coosuyon (he/him)
 
 
- ## 참고로 말씀드리자면, 저는 한국어를 한 마디도 모릅니다.
+ ## **참고로 말씀드리자면, 저는 한국어를 한 마디도 모릅니다.**
 
 
 - 🏵️ I am currently working on ***smaller personal projects***
@@ -12,14 +12,14 @@
 
 - 🍊 Fun fact: ***I larp Chainsaw Man***.
 
-## Contact me, for (almost) any reason:
+## **Contact me, for (almost) any reason:**
 even for non-programming related inquiries (as long as there is at least a strand of common sense in your head)!
 
-- Discord (@coosuyon)
+- Stoat (coosuyon#4196)
 
 - E-mail (4r52d03x@anonaddy.com)
 
-### **Consider reaching out to me through e-mail rather than Discord.**
+### **Consider reaching out to me through e-mail rather than Stoat.**
 
 
 <h3 align="left">check these cool icons hell yeah</h3>
