@@ -7,6 +7,8 @@
 - 🍵 I'm usually working on ***smaller, personal projects***
 
 - 🍋‍🟩 I am currently (trying to) learn: ***HTML, Javascript and CSS (sometimes Typescript), lua/luau and Python.***
+
+  * update: I love quickshell
   
 ## **Contact me, respectfully, for any reason:**
 even for non-programming related inquiries.
